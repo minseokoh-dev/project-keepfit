@@ -4,6 +4,8 @@
 
 #### 나의 운동스타그램 KEEPFIT
 
+<img style="float: left;" src="https://user-images.githubusercontent.com/58475668/70301389-9465e980-183d-11ea-9da1-31612234c4bf.jpg" width="200"/><br/><br/><br/><br/><br/><br/>
+
 개발인원 : 4명
 
 개발기간: 2019.07.08 ~ 2019.07.29 (3주)
